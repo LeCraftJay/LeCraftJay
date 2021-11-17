@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LeCraftJay
+- 👀 I’m interested in Android App Development
+- 🌱 I’m currently learning App Developing
+- 💞️ I’m looking to collaborate with android developers
+- 📫 How to reach me via Gmail: jm.enns04@gmail.com
